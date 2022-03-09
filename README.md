@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonas</h1>
 <h3 align="center">A developer interested in very technical problems.</h3>
 
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=simorenarium" alt="simorenarium" />
-    </a>
-</p>
-
-- 🔭 I’m currently working on **Ceiling Light with weather animations** - 💬 Ask me about **Java, Kotlin, anything really**
+- 💬 Ask me about **Java, Kotlin, anything really**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
