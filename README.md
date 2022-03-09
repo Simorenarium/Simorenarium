@@ -4,8 +4,8 @@
 - 💬 Ask me about **Java, Kotlin, anything really**
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lumii-uwu&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues&bg_color=00000000">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumii-uwu&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
+<img src="https://github-readme-stats.vercel.app/api?username=simorenarium&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues&bg_color=00000000">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simorenarium&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
 </p>
 
 <h3 align="left">Connect with me:</h3>
