@@ -22,6 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simorenarium&show_icons=true&locale=en&layout=compact" alt="simorenarium" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simorenarium&show_icons=true&theme=dark&locale=en" alt="simorenarium" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simorenarium&show_icons=truelocale=en" alt="simorenarium" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simorenarium&" alt="simorenarium" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simorenarium" alt="simorenarium" /></p>
